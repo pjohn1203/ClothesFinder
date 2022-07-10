@@ -1,0 +1,6 @@
+ClothesFinder!
+
+Application aimed to take a photo of your desired article of clothing and provide shopping results matching that item. Learning project to refactor an old college hackathon/class project in a new language (Swift)
+
+Requires SerpAPI key to work currently. Basic Key only has 100 searches available therefore I won't be including mine.
+
